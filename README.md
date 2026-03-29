@@ -66,7 +66,7 @@ Enterprises lose **20–30% of operational costs** due to inefficiencies such as
 
 ```text
 Data Stream → AI Agents → Decision Engine → Action Execution → Impact Calculation → Dashboard
-       ↑______________________________________________________________|
+       
 ```
 
 ---
